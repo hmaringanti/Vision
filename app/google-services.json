@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246173062399",
+    "firebase_url": "https://bribe-70f9c.firebaseio.com",
+    "project_id": "bribe-70f9c",
+    "storage_bucket": "bribe-70f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246173062399:android:08864dce8b22196bca28ca",
+        "android_client_info": {
+          "package_name": "com.example.bribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246173062399-kj3j5o2qak2gagepvueopmpuf5dupt00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bribe",
+            "certificate_hash": "803b68e867bf396fea42ac7fb35a1d15e131a8ee"
+          }
+        },
+        {
+          "client_id": "246173062399-4r5l5cpuv7p00o3i7oalkeibp9ig6s22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuQFQZdfGEYg1UYhQCZAzI710zqsHcPY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246173062399-4r5l5cpuv7p00o3i7oalkeibp9ig6s22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

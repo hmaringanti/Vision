@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">246173062399-4r5l5cpuv7p00o3i7oalkeibp9ig6s22.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bribe-70f9c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">246173062399</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuQFQZdfGEYg1UYhQCZAzI710zqsHcPY0</string>
+    <string name="google_app_id" translatable="false">1:246173062399:android:08864dce8b22196bca28ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuQFQZdfGEYg1UYhQCZAzI710zqsHcPY0</string>
+    <string name="google_storage_bucket" translatable="false">bribe-70f9c.appspot.com</string>
+    <string name="project_id" translatable="false">bribe-70f9c</string>
+</resources>
